@@ -1,24 +1,48 @@
-# Retail-Behavior-Dataset
+# Retail Behavior Dataset (Coming Soon) 🚀
 
-## Overview
-This dataset was created as part of the research project "Evaluating Data Quality and Preprocessing Methods to Enhance Skeleton-Based Action Recognition in Retail Environments".
-It includes skeletal and RGB data collected using the OptiTrack motion capture system and normal cameras.
+![Dataset Banner](https://via.placeholder.com/1000x300?text=Retail+Behavior+Dataset+Banner) <!-- Replace with your actual banner image -->
 
-## Access the Dataset
-The dataset is hosted on Google Drive due to its large size. You can download it from the link below:
-[Download Dataset](https://drive.google.com/your-link-here)
+## 🛒 Overview
+Welcome to the **Retail Behavior Dataset** repository! This dataset is part of the research project **"Predictive Analysis of Shoplifting in Retail Environments"**. It provides:
+- **Skeletal data** captured using the OptiTrack motion capture system.
+- **RGB video data** from cameras in a simulated retail aisle environment.
 
-## Dataset Structure
-- **Raw Data**: Contains raw skeletal and RGB data files.
-- **Processed Data**: Preprocessed files ready for analysis.
-- **Metadata**: CSV file describing each data point.
+---
 
-## Usage
-Please refer to the included scripts for preprocessing and analysis. 
+### 📸 Sneak Peek at the Dataset
+Here's a glimpse of what the dataset will include:
 
-## License
-This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+| Skeletal Data Sample | RGB Video Frame Sample |
+|-----------------------|------------------------|
+| ![Skeletal Data](https://via.placeholder.com/200x200?text=Skeletal+Data) | ![RGB Data](https://via.placeholder.com/200x200?text=RGB+Frame) |
 
-## Citation
-If you use this dataset, please cite:
-Samer Yousef, "Retail Behavior Dataset", 2025. Available at: [GitHub Repo URL].
+---
+
+### 📅 Planned Release Date
+The dataset is currently under preparation and will be available by:
+**March 1, 2025**
+
+---
+
+### 📂 What to Expect
+The dataset will include:
+1. **Raw Data**: Skeletal and RGB files for various activities.
+2. **Processed Data**: Preprocessed versions of the data.
+3. **Metadata**: Comprehensive documentation of data fields.
+4. **Scripts**: Python scripts for preprocessing and analysis.
+
+---
+
+### 🔗 Stay Updated
+- Watch this repository for updates.
+- Follow us on **[Twitter](https://twitter.com/YourHandle)** for news about this project.
+
+---
+
+### 🔒 Licensing
+The dataset will be released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+---
+
+### 🖋 Citation
+Once released, you can cite the dataset as follows:
