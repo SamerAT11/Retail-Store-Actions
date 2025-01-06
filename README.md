@@ -20,7 +20,7 @@ Here's a glimpse of what the dataset will include:
 
 ### 📅 Planned Release Date
 The dataset is currently under preparation and will be available by:
-**March 1, 2025**
+**June 20, 2025**
 
 ---
 
@@ -46,3 +46,13 @@ The dataset will be released under the **Creative Commons Attribution 4.0 Intern
 
 ### 🖋 Citation
 Once released, you can cite the dataset as follows:
+[Samer Yousef], "Retail Behavior Dataset", 2025. Available at: [GitHub Repo URL or DOI link].
+
+
+---
+
+### 📧 Contact
+For inquiries or collaboration opportunities, feel free to contact:
+**[yousef.samer.akram.yacoub.p2@dc.tohoku.ac.jp]**
+
+![Footer Image](https://via.placeholder.com/1000x100?text=Thank+you+for+your+interest!)
