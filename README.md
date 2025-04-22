@@ -1,9 +1,12 @@
-# Retail Behavior Dataset (Coming Soon) 🚀
+# Retail Behavior Dataset (FG 2025) 🚀
 
 ![Dataset Banner](https://via.placeholder.com/1000x300?text=Retail+Behavior+Dataset+Banner) <!-- Replace with your actual banner image -->
 
 ## 🛒 Overview
-Welcome to the **Retail Behavior Dataset** repository! This dataset is part of the research project **"Predictive Analysis of Shoplifting in Retail Environments"**. It provides:
+Welcome to the **Retail Store Actions Dataset**, part of the research presented in the paper:
+
+📄 **"Evaluating Data Quality and Processing Techniques to Enhance Skeleton-Based Action Recognition in Retail Stores"**  
+Accepted to the **IEEE International Conference on Automatic Face and Gesture Recognition (FG 2025)**. It provides:
 - **Skeletal data** captured using the OptiTrack motion capture system.
 - **RGB video data** from cameras in a simulated retail aisle environment.
 
@@ -46,7 +49,8 @@ The dataset will be released under the **Creative Commons Attribution 4.0 Intern
 
 ### 🖋 Citation
 Once released, you can cite the dataset as follows:
-[Samer Yousef], "Retail Behavior Dataset", 2025. Available at: [GitHub Repo URL or DOI link].
+Samer Yousef, "Retail Store Actions Dataset", 2025. Presented at the IEEE FG 2025 Conference.  
+Available at: [https://github.com/SamerAT11/Retail-Store-Actions](https://github.com/SamerAT11/Retail-Store-Actions)
 
 
 ---
