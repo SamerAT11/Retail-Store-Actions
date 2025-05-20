@@ -1,6 +1,6 @@
 # Retail Behavior Dataset (FG 2025) 🚀
 
-![Dataset Banner](https://via.placeholder.com/1000x300?text=Retail+Behavior+Dataset+Banner) <!-- Replace with your actual banner image -->
+![Dataset Banner](assets/overview.png) <!-- Replace with your actual banner image -->
 
 ## Overview
 Welcome to the **Retail Store Actions Dataset**, part of the research presented in the paper:
@@ -16,7 +16,7 @@ Accepted to the **The 19th IEEE International Conference on Automatic Face and G
 
 | MoCap Overlay (2D Projection) | RGB Frame |
 |----------------------------|------------------------|
-| ![Skeletal GIF](assets/output_mocap_Compare_013_sequence_12-ezgif.com-crop.gif) | ![RGB GIF](assets/sequence_video-2.gif) |
+| ![Skeletal GIF](assets/sequence_vid_2d.gif) | ![RGB GIF](assets/sequence_video-2.gif) |
 
 ---
 
