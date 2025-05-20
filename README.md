@@ -54,20 +54,13 @@ This dataset is currently distributed **by request only**.
 If you're interested in using it for academic or research purposes:
 
 📧 **Contact:** yousef.samer.akram.yacoub.p2@dc.tohoku.ac.jp  
-📄 **Include:** Name, Affiliation, Project Description, and Expected Use.
+📄 **Include:** Name, Affiliation, and Expected Use.
 
 ---
 
 ### 🔒 License
 
 This dataset will be made available under the [**Creative Commons Attribution 1.0 International (CC BY 1.0)**](https://creativecommons.org/licenses/by/4.0/).
-
-You are free to:
-
-- Share — copy and redistribute the material in any medium or format  
-- Adapt — remix, transform, and build upon the material  
-
-As long as you give **appropriate credit** and indicate if changes were made.
 
 ---
 
