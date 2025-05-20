@@ -14,9 +14,9 @@ Accepted to the **The 19th IEEE International Conference on Automatic Face and G
 
 ### 👀 Sneak Peek – What the Dataset Looks Like
 
-| MoCap Overlay | RGB Frame |
+| MoCap Overlay (2D Projection) | RGB Frame |
 |----------------------------|------------------------|
-| ![Skeletal GIF]() | ![RGB GIF](assets/rgb_sample.gif) |
+| ![Skeletal GIF](assets/output_mocap_Compare_013_sequence_12-ezgif.com-crop.gif) | ![RGB GIF](assets/sequence_video-2.gif) |
 
 ---
 
