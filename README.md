@@ -2,43 +2,39 @@
 
 ![Dataset Banner](https://via.placeholder.com/1000x300?text=Retail+Behavior+Dataset+Banner) <!-- Replace with your actual banner image -->
 
-## 🛒 Overview
+## Overview
 Welcome to the **Retail Store Actions Dataset**, part of the research presented in the paper:
 
 📄 **"Evaluating Data Quality and Processing Techniques to Enhance Skeleton-Based Action Recognition in Retail Stores"**  
-Accepted to the **IEEE International Conference on Automatic Face and Gesture Recognition (FG 2025)**. It provides:
+Accepted to the **The 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2025)**. It provides:
 - **Skeletal data** captured using the OptiTrack motion capture system.
 - **RGB video data** from cameras in a simulated retail aisle environment.
 
 ---
 
-### 📸 Sneak Peek at the Dataset
-Here's a glimpse of what the dataset will include:
+### 👀 Sneak Peek – What the Dataset Looks Like
 
-| Skeletal Data Sample | RGB Video Frame Sample |
-|-----------------------|------------------------|
-| ![Skeletal Data](https://via.placeholder.com/200x200?text=Skeletal+Data) | ![RGB Data](https://via.placeholder.com/200x200?text=RGB+Frame) |
-
----
-
-### 📅 Planned Release Date
-The dataset is currently under preparation and will be available by:
-**June 20, 2025**
+| MoCap Overlay | RGB Frame |
+|----------------------------|------------------------|
+| ![Skeletal GIF]() | ![RGB GIF](assets/rgb_sample.gif) |
 
 ---
 
 ### 📂 What to Expect
 The dataset will include:
-1. **Raw Data**: Skeletal and RGB files for various activities.
-2. **Processed Data**: Preprocessed versions of the data.
+1. **Raw Synced Data**: Skeletal and RGB files for various activities.
+2. **Compensated Synced Data**: Preprocessed versions of the data.
 3. **Metadata**: Comprehensive documentation of data fields.
 4. **Scripts**: Python scripts for preprocessing and analysis.
 
 ---
 
-### 🔗 Stay Updated
-- Watch this repository for updates.
-- Follow us on **[Twitter](https://twitter.com/YourHandle)** for news about this project.
+### 📥 Request Access
+This dataset is not publicly downloadable at the moment.  
+If you're interested in using it for research purposes, please send a request to:
+
+📧 **yousef.samer.akram.yacoub.p2@dc.tohoku.ac.jp**  
+Please include your name, affiliation, and intended use case.
 
 ---
 
